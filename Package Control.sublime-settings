@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Colorsublime",
+		"Fold Python",
+		"GitGutter",
+		"Jinja2",
+		"Origami",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Afterglow",
+		"Theme - Spacegray",
+		"Vintageous"
+	]
+}

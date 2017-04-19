@@ -1,0 +1,57 @@
+{
+	"auto_complete": false,
+	"caret_style": "solid",
+	"color_scheme": "Packages/Colorsublime - Themes/Afterglow.tmTheme",
+	"draw_white_space": "none",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.pid",
+		"*.pyc"
+	],
+	"find_selected_text": true,
+	"fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		"__pycache__",
+		"env",
+		"env3"
+	],
+	"font_face": "Menlo",
+	"font_options":
+	[
+		"subpixel_antialias",
+		"no_bold"
+	],
+	"font_size": 11.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"SublimeCodeIntel",
+		"Vintage"
+	],
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"mdpopups.use_sublime_highlighter": true,
+	"rulers":
+	[
+		72,
+		79
+	],
+	"save_on_focus_lost": true,
+	"scroll_pas_end": true,
+	"scroll_past_end": false,
+	"show_definitions": true,
+	"show_full_path": true,
+	"show_minimap": false,
+	"tab_size": 4,
+	"theme": "Afterglow.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"vintageous_use_cntl_keys": true,
+	"wide_caret": true,
+	"word_wrap": true,
+	"wrap_width": 80
+}
